@@ -5,7 +5,7 @@
  * @customfunction
  * @param first First number
  * @param second Second number
- * @param third Third number
+ * @param third Third, 4th, ... nth number
  * @returns The sum of the two numbers.
  */
 export function add(first: number, second: number, third: number[][][]): number {
