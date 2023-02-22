@@ -1,7 +1,7 @@
 ﻿/* global clearInterval, console, CustomFunctions, setInterval */
 
 /**
- * Adds two numbers.
+ * Adds two (or more) numbers.
  * @customfunction
  * @param first First number
  * @param second Second number
